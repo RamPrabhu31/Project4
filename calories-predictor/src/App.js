@@ -361,7 +361,7 @@ export default function App() {
           p: 1.2,
           mb: 1,
           borderRadius: 2,
-          background: "#f2f2f2",
+          background: "#FFFFFFFF",
           fontSize: 14,
           boxShadow: "none",
         }}
